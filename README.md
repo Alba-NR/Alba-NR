@@ -7,10 +7,10 @@ You can find a **showcase of my projects** in the **pinned** repositories below.
 
 ---
 💬 Want to know more about me? Check the following or simply send me an E-Mail:
-- Personal Web: https://albanr.com/
-- LinkedIn: https://www.linkedin.com/in/alba-nr
-- Email: alba.navarro.ros@gmail.com
-- CV / résumé: https://albanr.com/cv.pdf
+- 👩🏻‍💻 Personal Web: https://albanr.com/
+- 🌐 LinkedIn: https://www.linkedin.com/in/alba-nr
+- 📧 Email: alba.navarro.ros@gmail.com
+- 📄 CV / résumé: https://albanr.com/cv.pdf
 
 ---
 ### Learn. 🎓 Explore. 🚀 Create. ✍️
