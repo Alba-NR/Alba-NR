@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Alba.
-I'm a third year **Computer Science student** at the **University of Cambridge**.
+I'm a fourth year **Computer Science and Management Studies student** at the **University of Cambridge**.
 
-Some of my interests within Computer Science are **Computer Graphics**, **Games Development** and **Software Engineering** 👩🏻‍💻. I also really value **Art and Design**, especially when combining their **creativity** with the **technicalities** of Computer Science.
+Some of my interests within Computer Science are **Computer Graphics**, **Product Management** and **Software Engineering** 👩🏻‍💻. I also really value **Art and Design**, especially when combining their **creativity** with the **technicalities** of Computer Science.
 
 You can find a **showcase of my projects** in the **pinned** repositories below.
 
